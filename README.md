@@ -1,6 +1,5 @@
-# Azure-Inventory
-
-#          Script: Azure Inventory Script                                           
+# Script: Azure Inventory Script 
+                                          
 #          Date: Dec 13, 2018                                                                     
 #          Author: Prakhar Sharma
 
