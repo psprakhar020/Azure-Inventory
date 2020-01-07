@@ -1,4 +1,6 @@
 # Script: Azure Inventory Script 
+
+https://dev.azure.com/psprakhar020/Azure_Inventory_Generate/_apis/build/status/psprakhar020.Azure-Inventory?branchName=master
                                           
 #          Date: Dec 13, 2018                                                                     
 #          Author: Prakhar Sharma
